@@ -43,6 +43,10 @@
 			"minUI5Version": "1.90",
 			"libs": {
 				"sap.m": {}
+			},
+			"contentDensities": {
+				"compact": true,
+				"cozy": true
 			}
 		},
 		"models": {
